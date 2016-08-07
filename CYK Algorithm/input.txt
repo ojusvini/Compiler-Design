@@ -1,0 +1,11 @@
+S
+7
+S->EF|AF|EB|AB
+X->AY|BY|a|b
+Y->AY|BY|a|b
+E->AX
+F->BX
+A->a
+B->b
+ababb
+
