@@ -1,0 +1,8 @@
+E->E+T|aT
+T->T*F|F
+F->(E)|i
+
+S->S0S1S|01
+
+S->(L)|x
+L->L,S|S
